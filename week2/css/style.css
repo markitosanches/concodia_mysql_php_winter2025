@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input, select, textarea{
+    display: block;
+    margin: 5px;
+}
